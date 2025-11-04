@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Resume Builder - MERN Stack
 
 A professional resume builder application built with MongoDB, Express.js, React, and Node.js.
@@ -91,3 +92,6 @@ npm start
 
 **Development:**
 - Concurrently, Nodemon
+=======
+# Resume-Builder
+>>>>>>> d70053d4ead96aaea85ef6a5225e50a95b3aba6d
